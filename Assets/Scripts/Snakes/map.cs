@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//qwe
 public class map : MonoBehaviour {
 
 	public GameObject groundPrefab;
